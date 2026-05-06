@@ -4,6 +4,8 @@ L2RNP competition: https://l2rpn.chalearn.org/
 
 Robustness Track: https://competitions.codalab.org/competitions/25426
 
+Research paper: https://drive.google.com/file/d/1Txl5tNlxHXfIBmn9fgZffbIkwCkOkgKu/view?usp=drive_link
+
 This repository contains the source code for my MEng Computer Science Final Year Individual Project (COMP0138) at University College London (UCL).
 
 The robustness track in the NeurIPS 2020 L2RPN challenge aims to improve the robustness of power grids. To do so, this track has an opponent that can dynamically attack the grid under a specific budget by disconnecting a power line. This approach is used to model real-life adversarial actors that can attack the power grid. These attacks are not necessary at random; they can be targeted. AI agents developed will need to overcome such unexpected events and safely operate the power grid. 
